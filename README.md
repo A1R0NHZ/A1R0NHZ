@@ -1,18 +1,3 @@
-# 🚀 R. S. L. Balaji  
-**AI Engineer | Jr. Researcher | Signal Systems | Innovator**  
-
----
-
-### 👤 About Me  
-> 22 y/o AI Engineer & Researcher specializing in **Artificial Intelligence, Robotics, and Signal Processing.**  
-> Focused on **biomedical signal analysis, secure communication systems, and edge-deployable AI.**
-
-- 🧩 **14+ Research Publications** (IEEE, Q2 Journals, GCMM, IEECON, ICLIST)  
-- 🥇 **3× Best Paper Awards** — IEECON 2025, GCMM 2024, ICLIST 2024  
-- 🏅 **AGMA Young Maritime Leadership Award 2025**  
-- 📰 Featured in **Dina Thanthi** for lightweight offline cardiac diagnostic AI  
-- 💼 **Chief Innovation Officer (CIO)** — *Altruisty Innovation Pvt Ltd*  
-
 ---
 
 ### 🧠 Ongoing Projects  
