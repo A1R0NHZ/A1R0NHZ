@@ -1,13 +1,9 @@
----
-
 ### 🧠 Ongoing Projects  
 - **SXEcho Lite** – Secure data-over-sound communication (audible + ultrasonic)  
 - **EdgeAI ECG** – Real-time ECG classification on low-power devices  
 - **Hybrid EEG Model** – Depression & panic attack prediction using brainwave signals  
 - **VetraSync** – Adaptive low-latency acoustic transmission protocol  
 - **LLM Security Framework** – Extremism & flagged content detection using Transformers  
-
----
 
 ### ⚙️ Technical Skills  
 
