@@ -1,7 +1,6 @@
 # 🚀 R. S. L. Balaji  
 **AI Engineer | Jr. Researcher | Signal Systems | Innovator**  
--😄 Pronouns: He/Him
--⚡ Fun fact: I’m an avid pilot and love to explore the skies when I’m not coding!
+
 ---
 
 ### 👤 About Me  
