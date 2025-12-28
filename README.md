@@ -23,9 +23,6 @@
 
 > ⚡ “Building lightweight, scalable AI systems that bridge biomedical intelligence and defense technology.”  
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A1R0NHZ&show_icons=true&theme=tokyonight&hide_title=true)
-
-
 <!---
 A1R0NHZ/A1R0NHZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
